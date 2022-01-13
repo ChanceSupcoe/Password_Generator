@@ -18,5 +18,5 @@ Then the function adds all of the checked boxes characters to the options for th
 
 
 ## Working Application
-![](Develop/images/screenshot.JPG)
+![](screenshot.JPG)
 
